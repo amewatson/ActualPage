@@ -1,9 +1,11 @@
 ## Why Pokémon Sword and Shield are "bad" games
+![img](https://upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg)<br>
 [*Pokémon Sword and Shield*](https://swordshield.pokemon.com/en-us/) are 2019 role-playing games published by The Pokémon Company and Nintendo for the Nintendo Switch system. Alongside the core Pokémon gameplay, the games introduced several new features, notably Dynamax and Gigantamax. However, these features were not universally liked, and the games have received a fair share of criticism and in the 2 years since their release.  To be clear, I personally enjoyed these games, but there was a significant portion of the fanbase who did not.
 ### Contents
 - [Dynamax and Gigantamax](#dmax)
 - [Multiplayer](#mp)
 - [National dex and Graphics](#natdex)
+- [Conclusion](#conclusion)
  
 ### <a name=dmax>Dynamax and Gigantamax</a>
 
@@ -27,3 +29,6 @@ The other major complaint leveled at the games before their release was in regar
 Many fans complained that the Pokemon company claimed to be making improvements graphically, but that the trees looks terrible. Fans compared this image of a tree with trees from *The Legend of Zelda: Ocarina of Time*, a twenty year old game. 
 
 ![img](https://i2.wp.com/nintendosoup.com/wp-content/uploads/2019/06/pokemon-sword-shield-ocarina-of-time-tree-banner-jun162019.jpg?fit=900%2C600&ssl=1)
+
+## <a name="conclusion">Conclusion</a>
+These games have not stopped to receive backlash directed towards them for the past 2 years, for reasons ranging from people wanting more pokémon representing, to complaining about a tree, or complaining about competitive balance. Even so, Pokémon continues to be the largest media franchise in the world, and continues to be enjoyed by millions accross the globe. People will always focus on the negative, because that is human nature, but these games still have merit to them, despite all the criticism given to it. 
