@@ -1,4 +1,5 @@
 ## Why Pokémon Sword and Shield are "bad" games
+### test
 [*Pokémon Sword and Shield*](https://swordshield.pokemon.com/en-us/) are 2019 role-playing games published by The Pokémon Company and Nintendo for the Nintendo Switch system. Alongside the core Pokémon gameplay, the games introduced several new features, notably Dynamax and Gigantamax. However, these features were not universally liked, and the games have received a fair share of criticism and in the 2 years since their release.  
 ### Dynamax and Gigantamax
 ![img](https://imgix.bustle.com/inverse/be/e6/35/f1/e16a/49d1/8cf9/c42d06265d40/gigantamax-pikachu-enters-the-arena-inpokmon-sword-and-shield.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg)
